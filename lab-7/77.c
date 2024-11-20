@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void palindrome(int number) 
+void palindrome(int num) 
 {
     int original = number;
     int reversed = 0;
